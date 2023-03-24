@@ -280,6 +280,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.fjx0dev.AR2SISV;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -305,6 +306,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.fjx0dev.AR2SISV;
 				PRODUCT_NAME = "$(TARGET_NAME)";
